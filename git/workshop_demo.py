@@ -5,7 +5,7 @@ def print_names():
 	print "The people who have done the Git workshop are:"
 	with open('names') as fp:
 		for line in fp:
-			print line
+			print line.replace('\n','')
         files = glob.glob("names_dir/*")
 	print "People who are in progress in the workshop are:"
         for file in files:
