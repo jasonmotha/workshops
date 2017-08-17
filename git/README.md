@@ -1,5 +1,7 @@
 Demo for git branching and pull requests. 
 
+
+Beginners Guide to Advanced Git
 During the workshop please fork this repository, edit the names file and put your name on a new line. 
 Once you have done that submit a pull-request and the changes can be merged in by the maintainer.
 
